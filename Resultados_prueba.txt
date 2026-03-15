@@ -1,0 +1,19 @@
+Resultados de clasificación
+==================================================
+
+images (2).jpeg -> NO PAISAJE -> [0.0, 1.0, 0.0]
+  Esperado: No indicado por nombre de archivo
+
+images.jpeg -> PAISAJE -> [0.93953125, 0.44488281249999995, 0.5746484375]
+  Esperado: No indicado por nombre de archivo
+
+images (1).jpeg -> NO PAISAJE -> [0.129609375, 0.823046875, 0.08359375]
+  Esperado: No indicado por nombre de archivo
+
+Imagen 1.jpg.jpeg -> PAISAJE -> [0.979140625, 0.5254687499999999, 0.68859375]
+  Esperado: No indicado por nombre de archivo
+
+3.jpeg -> PAISAJE -> [0.3376171875, 0.5685546875, 0.002578125]
+  Esperado: No indicado por nombre de archivo
+
+No hubo imágenes con etiqueta inferible para calcular accuracy.

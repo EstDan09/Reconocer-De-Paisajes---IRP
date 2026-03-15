@@ -1,0 +1,4 @@
+numpy==2.4.3
+opencv-python==4.13.0.92
+Pillow>=10.0.0
+pillow-avif-plugin>=1.4.0

@@ -1,19 +1,98 @@
 Resultados de clasificación
 ==================================================
 
-images (2).jpeg -> NO PAISAJE -> [0.0, 1.0, 0.0]
+paisaje_10.jpeg -> PAISAJE -> [0.7991015625, 0.458125, 0.205859375]
+  Esperado: PAISAJE
+  Resultado: CORRECTO
+
+paisaje_2.jpg -> PAISAJE -> [0.979140625, 0.5254687499999999, 0.68859375]
+  Esperado: PAISAJE
+  Resultado: CORRECTO
+
+paisaje_6.jpeg -> PAISAJE -> [0.4609375, 0.9408203125, 0.05578125]
+  Esperado: PAISAJE
+  Resultado: CORRECTO
+
+paisaje_13.jpeg -> PAISAJE -> [0.4319140625, 0.6203515625, 0.08390625]
+  Esperado: PAISAJE
+  Resultado: CORRECTO
+
+paisaje_4.jpg -> PAISAJE -> [0.6622265625, 0.6798046875, 0.6593359375]
+  Esperado: PAISAJE
+  Resultado: CORRECTO
+
+paisaje_1.jpg -> PAISAJE -> [0.635859375, 0.933046875, 0.36140625]
+  Esperado: PAISAJE
+  Resultado: CORRECTO
+
+paisaje_14.jpeg -> PAISAJE -> [0.9458203125, 0.715078125, 0.3512890625]
+  Esperado: PAISAJE
+  Resultado: CORRECTO
+
+nopaisaje_ciudad_noche.avif -> NO PAISAJE -> [0.00328125, 0.969453125, 0.105703125]
+  Esperado: NO PAISAJE
+  Resultado: CORRECTO
+
+paisaje_16.jpeg -> PAISAJE -> [0.979140625, 0.5254687499999999, 0.68859375]
+  Esperado: PAISAJE
+  Resultado: CORRECTO
+
+paisaje_7.jpeg -> PAISAJE -> [0.916484375, 0.9723046875, 0.3383984375]
+  Esperado: PAISAJE
+  Resultado: CORRECTO
+
+paisaje_15.jpeg -> PAISAJE -> [0.7287109375, 0.94328125, 0.2873046875]
+  Esperado: PAISAJE
+  Resultado: CORRECTO
+
+paisaje_5.jpeg -> NO PAISAJE -> [0.016640625, 0.9728515625, 0.6661328125]
+  Esperado: PAISAJE
+  Resultado: INCORRECTO
+
+nopaisaje_ciudad_noche_2.avif -> NO PAISAJE -> [0.521015625, 0.12214843750000004, 0.0153125]
+  Esperado: NO PAISAJE
+  Resultado: CORRECTO
+
+paisaje_17.jpeg -> PAISAJE -> [0.93953125, 0.44488281249999995, 0.5746484375]
+  Esperado: PAISAJE
+  Resultado: CORRECTO
+
+paisaje_12.jpeg -> NO PAISAJE -> [0.096015625, 0.9975, 0.7545703125]
+  Esperado: PAISAJE
+  Resultado: INCORRECTO
+
+nopaisaje_3.jpeg -> NO PAISAJE -> [0.129609375, 0.823046875, 0.08359375]
+  Esperado: NO PAISAJE
+  Resultado: CORRECTO
+
+paisaje_8.jpeg -> PAISAJE -> [0.2403515625, 0.9490234375, 0.2605859375]
+  Esperado: PAISAJE
+  Resultado: CORRECTO
+
+paisaje_3.jpg -> PAISAJE -> [1.0, 0.0001953125000000444, 0.34796875]
+  Esperado: PAISAJE
+  Resultado: CORRECTO
+
+nopaisaje_2.jpeg -> PAISAJE -> [0.3376171875, 0.5685546875, 0.002578125]
+  Esperado: NO PAISAJE
+  Resultado: INCORRECTO
+
+nopaisaje.jpeg -> NO PAISAJE -> [0.107109375, 0.9656640625, 0.7277734375]
   Esperado: No indicado por nombre de archivo
 
-images.jpeg -> PAISAJE -> [0.93953125, 0.44488281249999995, 0.5746484375]
+nopaisaje_4.jpeg -> NO PAISAJE -> [0.0, 1.0, 0.0]
+  Esperado: NO PAISAJE
+  Resultado: CORRECTO
+
+nopaisaje.png -> PAISAJE -> [0.473515625, 0.862734375, 0.7940625]
   Esperado: No indicado por nombre de archivo
 
-images (1).jpeg -> NO PAISAJE -> [0.129609375, 0.823046875, 0.08359375]
-  Esperado: No indicado por nombre de archivo
+paisaje_11.jpeg -> NO PAISAJE -> [0.0, 0.9944921875, 0.980703125]
+  Esperado: PAISAJE
+  Resultado: INCORRECTO
 
-Imagen 1.jpg.jpeg -> PAISAJE -> [0.979140625, 0.5254687499999999, 0.68859375]
-  Esperado: No indicado por nombre de archivo
+paisaje_9.jpeg -> PAISAJE -> [0.58875, 0.5249609375, 0.5408203125]
+  Esperado: PAISAJE
+  Resultado: CORRECTO
 
-3.jpeg -> PAISAJE -> [0.3376171875, 0.5685546875, 0.002578125]
-  Esperado: No indicado por nombre de archivo
-
-No hubo imágenes con etiqueta inferible para calcular accuracy.
+Porcentaje de aciertos: 81.82% (18/22)
